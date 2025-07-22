@@ -1,0 +1,6 @@
+gradio
+torch
+accelerate
+sentencepiece
+timm
+git+https://github.com/huggingface/transformers.git
